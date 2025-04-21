@@ -54,6 +54,9 @@ Me chamo Marcus Alves, tenho 22 anos e moro em Juiz de Fora, MG. Atualmente, est
 <a href="https://www.instagram.com/marcus.alves02/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/mp-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 
+<br/>
+<br/>
+
 ### 📊 Estatísticas
 
 <p>
