@@ -40,7 +40,7 @@ Me chamo Marcus Alves, tenho 22 anos e moro em Juiz de Fora, MG. Atualmente, est
     title="RStudio"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" 
+    src="ttps://www.r-project.org/logo/Rlogo.png" 
 />
 
 <br/>
