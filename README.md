@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Marcus Alves
 
-**`Finanças quantativas & programação`**
+**`Finanças quantitativas & programação`**
 
 Me chamo Marcus Alves, tenho 22 anos e moro em Juiz de Fora, MG. Atualmente, estou no último período do curso de Ciências Econômicas na UFJF. Sou apaixonado por finanças e na sua capacidade de integração com programação. Nos últimos anos, venho construindo uma base sólida em Python e machine learning para explorar, testar e automatizar estratégias de investimento — especialmente no mercado acionário brasileiro. Atualmente, estou focado em desenvolver projetos práticos que unem teoria financeira e programação.
 
