@@ -1,29 +1,29 @@
 # 🧑🏻‍💻 Marcus Alves
 
-**`Finanças quantitativas & programação`**
+**`Quantitative finance & programming`**
 
-Me chamo Marcus Alves, tenho 22 anos e moro em Juiz de Fora, MG. Atualmente, estou no último período do curso de Ciências Econômicas na UFJF. Sou apaixonado por finanças e na sua capacidade de integração com programação. Nos últimos anos, venho construindo uma base sólida em Python e machine learning para explorar, testar e automatizar estratégias de investimento — especialmente no mercado acionário brasileiro. Atualmente, estou focado em desenvolver projetos práticos que unem teoria financeira e programação.
+My name is Marcus Alves, I’m 22 years old and I live in Juiz de Fora, MG, Brazil. I'm currently in my final semester of the Economics program at UFJF. I'm passionate about finance and its ability to integrate with programming. Over the past few years, I've been building a strong foundation in Python and machine learning to explore, test, and automate investment strategies — especially in the Brazilian stock market. I'm currently focused on developing practical projects that combine financial theory and programming.
 
 <p align="left">
     <a href="https://github.com/MarcusAlves02?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MarcusAlves02?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Total stars" 
+            title="Total GitHub stars" 
+            src="https://custom-icon-badges.demolab.com/github/stars/MarcusAlves02?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/MarcusAlves02?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MarcusAlves02?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/MarcusAlves02?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -57,7 +57,7 @@ Me chamo Marcus Alves, tenho 22 anos e moro em Juiz de Fora, MG. Atualmente, est
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
   <img 
@@ -65,14 +65,13 @@ Me chamo Marcus Alves, tenho 22 anos e moro em Juiz de Fora, MG. Atualmente, est
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MarcusAlves02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=MarcusAlves02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusAlves02&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusAlves02&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
-
 </p>
