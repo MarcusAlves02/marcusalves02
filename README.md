@@ -2,7 +2,7 @@
 
 **`Quantitative finance & programming`**
 
-My name is Marcus Alves, I’m 22 years old and I live in Juiz de Fora, MG, Brazil. I'm currently in my final semester of the Economics program at UFJF. I'm passionate about finance and its ability to integrate with programming. Over the past few years, I've been building a strong foundation in Python and machine learning to explore, test, and automate investment strategies — especially in the Brazilian stock market. I'm currently focused on developing practical projects that combine financial theory and programming.
+My name is Marcus Alves, I’m 22 years old and I live in Juiz de Fora, MG, Brazil. I'm currently in my final semester of the Economics degree at UFJF. I'm passionate about finance and its capacity to integrate with programming. Over the past few years, I've been building a strong foundation in Python and machine learning to explore, test, and automate investment strategies — especially in the Brazilian stock market. I'm currently focused on developing practical projects that combine financial theory and programming.
 
 <p align="left">
     <a href="https://github.com/MarcusAlves02?tab=repositories&sort=stargazers">
